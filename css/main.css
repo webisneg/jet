@@ -2505,4 +2505,13 @@ font-size: 14px;
     top: -38px;
 }
 
+.vue-tel-input input {
+    margin: 0;
+    border: 0;
+}
+
+.vue-tel-input{
+    margin: 0 0 9px;
+}
+
 /*======== end Footer ========*

@@ -32,7 +32,7 @@
 
 					<div class="footer-last">
 					<h3>Контакты</h3>
-					<h6>ООО “Альфабанк”</h6>
+					<h6>ООО "Альфа"</h6>
 					<div class="footer-flex">
 					<div>
 					
@@ -40,7 +40,7 @@
 						<div>
 							<img src="img/close-envelope.svg" alt="">
 						</div>
-						 <a href="">info@link.ru</a>
+						 <a href="">info@restocker.ru</a>
 					</div>
 
 					<div class="footer-info-flex">
@@ -48,13 +48,15 @@
 							<img src="img/call-answer.svg" alt="">
 						</div>
 						<div>
-							<a href="">+37585-33-333</a>
+							<a href="tel:+7(929)550-16-48">+7(929)550-16-48</a>
+							<a href="tel:+375(29)350-25-80">+375(29)350-25-80</a>
 						</div>
 					</div>
 					
 					</div>
 					</div>
 				</div>
+
 
 
 				</div>
