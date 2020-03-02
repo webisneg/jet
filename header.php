@@ -79,14 +79,17 @@
 					<div class="category-flex">
 						<div>
 							<div class="category-container">
-								<ul>
-								<li><a href="">все категории</a></li>
-								<li><a href="">Скидки и акции</a></li>
-								<li><a href="">электроника</a></li>
-								<li><a href="">Бытовая техника</a></li>
-								<li><a href="">Авто </a></li>
-								<li><a href="">Детские товары</a></li>
-							</ul>
+								<ul><li><a href="http://94.230.198.208/jet/public/catalog">все категории</a></li> <li><a href="http://94.230.198.208/jet/public/catalog/1">
+        Одежда, обувь и аксессуары
+    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/7">
+        Часы и украшения
+    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/8">
+        Компьютеры и электроника
+    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/9">
+        Товары для дома
+    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/10">
+        Товары на каждый день
+    </a></li></ul>
 							</div>
 						</div>
 					</div>

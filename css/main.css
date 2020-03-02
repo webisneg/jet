@@ -160,20 +160,20 @@ text-decoration: underline;
 
 .category-flex ul li {
     display: inline-block;
-    margin-right: 64px;
+    margin-right: 23px;
 }
 
 .category-flex ul li:last-child{
 	margin-right: 0;
 }
 
-.category-flex ul li a{
-color: #3b3b3b;
-font-size: 14px;
-font-weight: 700;
-text-transform: uppercase;
-letter-spacing: 0.5px;
-position: relative;
+.category-flex ul li a {
+    color: #3b3b3b;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    position: relative;
 }
 
 .category-flex ul li a:hover {
@@ -186,8 +186,8 @@ position: relative;
     width: 1px;
     height: 11px;
     position: absolute;
-    right: -35px;
-    top: 5px;
+    right: -15px;
+    top: 2px;
 }
 
 .category-flex ul li:last-child > a:before{
@@ -334,7 +334,6 @@ text-decoration: underline;
 /*======== beg Card ========*/
 .product-details {
     padding: 49px 0 14px;
-    overflow: hidden;
 }
 
 .breadcrums {
@@ -444,7 +443,7 @@ top: 50%;
 }
 
 .product-detail-flex > div {
-    margin-right: 55px;
+    margin-right: 30px;
 }
 
 .product-detail-flex > div:last-child{
