@@ -1045,7 +1045,7 @@ border: 1px solid #4641fd;
 
 .condition-flex {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-end;
     margin: 0 0 43px;
 }
@@ -1114,9 +1114,9 @@ font-size: 18px;
     height: 100%;
     background-color: #e6e6e6;
     border-radius: 10px 0px 0px 10px;
-    padding: 26px 20px;
+    padding: 38px 20px;
     position: relative;
-    height: 114px;
+    height: 140px;
 }
 
 .logo-block img {
@@ -1130,7 +1130,7 @@ font-size: 18px;
     font-weight: 700;
     transform: rotate(90deg);
     right: -16px;
-    top: 47px;
+    top: 60px;
     letter-spacing: 0.5px;
 }
 
@@ -1138,13 +1138,13 @@ font-size: 18px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 0 34px;
+    padding: 0 24px;
 }
 
-.order-text-flex{
-	display: flex;
-	justify-content: flex-start;
-	align-items: flex-start;
+.order-text-flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .order-text-flex img {
@@ -1153,13 +1153,18 @@ font-size: 18px;
 }
 
 .order-flex > div {
-    margin-right: 30px;
+    margin-right: 20px;
 }
 
-.order-text-flex  p{
-font-size: 14px;
-color: #000000;
-line-height: 2;
+.order-flex > div:last-child {
+    margin-right: 0;
+}
+
+.order-text-flex p {
+    font-size: 14px;
+    color: #000000;
+    line-height: 2;
+    margin: 0;
 }
 
 .order-text-flex  p a{
