@@ -726,6 +726,18 @@ letter-spacing: 0.5px;
 	padding: 0 12px;
 }
 
+.specifications-table td, .specifications-table th {
+    padding: 5px 5px;
+    border: #000000 1px solid;
+    margin: 0;
+    color: #000000;
+	font-size: 16px;
+}
+
+.specifications-table th {
+    background-color: rgba(70, 65, 253, 0.3);
+}
+
 .table-info{
 	width: 100%;
 	border-collapse: collapse;
