@@ -738,6 +738,10 @@ letter-spacing: 0.5px;
     background-color: rgba(70, 65, 253, 0.3);
 }
 
+.specifications-table {
+    margin: 20px 0 15px;
+}
+
 .table-info{
 	width: 100%;
 	border-collapse: collapse;
