@@ -202,7 +202,7 @@
 								<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 							</div>
 							<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -222,7 +222,7 @@
 								<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 							</div>
 							<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -242,7 +242,7 @@
 								<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 							</div>
 							<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -262,7 +262,7 @@
 						<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 					</div>
 					<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -283,7 +283,7 @@
 					</div>
 
 					<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -303,7 +303,7 @@
 						<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 					</div>
 					<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -323,7 +323,7 @@
 						<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 					</div>
 					<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -343,7 +343,7 @@
 						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
 					</div>
 					<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>
@@ -363,7 +363,7 @@
 						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
 					</div>
 					<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м <i>5c</i></span></li>
 								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
 								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
 							</ul>

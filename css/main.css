@@ -1471,6 +1471,10 @@ font-size: 18px;
     margin-left: 11px;
 }
 
+.product-detail-list li span i{
+    font-style: normal;
+}
+
 
 .product-detail-list li img {
     width: 20px;

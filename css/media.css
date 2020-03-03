@@ -1549,6 +1549,10 @@
   .price h3 span {
     margin-left: 7px;
   }
+
+  .product-detail-list li span i {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 370px) {
