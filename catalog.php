@@ -196,10 +196,10 @@
 					<div class="col-6 col-lg-4 col-md-4">
 						<div class="product-item">
 							<div class="product-img object-fit">
-								<img src="img/slider-img.jpg" alt="">
+								<a href=""><img src="img/slider-img.jpg" alt=""></a>
 							</div>
 							<div class="product-title">
-								<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+								<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 							</div>
 							<ul class="product-detail-list">
 								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
@@ -209,17 +209,17 @@
 							<div class="price">
 								<h3>Текущая ставка <span>365 540 ₽</span></h3>
 							</div>
-							<a href="">смотреть лот</a>
+							<a class="product-link" href="">смотреть лот</a>
 						</div>
 					</div>
 
 					<div class="col-6 col-lg-4 col-md-4">
 						<div class="product-item">
 							<div class="product-img object-fit">
-								<img src="img/slider-img.jpg" alt="">
+								<a href=""><img src="img/slider-img.jpg" alt=""></a>
 							</div>
 							<div class="product-title">
-								<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+								<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 							</div>
 							<ul class="product-detail-list">
 								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
@@ -229,17 +229,17 @@
 							<div class="price">
 								<h3>Текущая ставка <span>365 540 ₽</span></h3>
 							</div>
-							<a href="">смотреть лот</a>
+							<a class="product-link" href="">смотреть лот</a>
 						</div>
 					</div>
 
 					<div class="col-6 col-lg-4 col-md-4">
 						<div class="product-item">
 							<div class="product-img object-fit">
-								<img src="img/slider-img.jpg" alt="">
+								<a href=""><img src="img/slider-img.jpg" alt=""></a>
 							</div>
 							<div class="product-title">
-								<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+								<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 							</div>
 							<ul class="product-detail-list">
 								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
@@ -249,17 +249,17 @@
 							<div class="price">
 								<h3>Текущая ставка <span>365 540 ₽</span></h3>
 							</div>
-							<a href="">смотреть лот</a>
+							<a class="product-link" href="">смотреть лот</a>
 						</div>
 					</div>
 
 					<div class="col-6 col-lg-4 col-md-4">
 						 <div class="product-item">
 					<div class="product-img object-fit">
-						<img src="img/slider-img.jpg" alt="">
+						<a href=""><img src="img/slider-img.jpg" alt=""></a>
 					</div>
 					<div class="product-title">
-						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+						<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 					</div>
 					<ul class="product-detail-list">
 								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
@@ -269,17 +269,17 @@
 					<div class="price">
 						<h3>Текущая ставка <span>365 540 ₽</span></h3>
 					</div>
-					<a href="">смотреть лот</a>
+					<a class="product-link" href="">смотреть лот</a>
 				</div>
 					</div>
 
 					<div class="col-6 col-lg-4 col-md-4">
 						 <div class="product-item">
 					<div class="product-img object-fit">
-						<img src="img/slider-img.jpg" alt="">
+						<a href=""><img src="img/slider-img.jpg" alt=""></a>
 					</div>
 					<div class="product-title">
-						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+						<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 					</div>
 
 					<ul class="product-detail-list">
@@ -290,17 +290,17 @@
 					<div class="price">
 						<h3>Текущая ставка <span>365 540 ₽</span></h3>
 					</div>
-					<a href="">смотреть лот</a>
+					<a class="product-link" href="">смотреть лот</a>
 				</div>
 					</div>
 
 					<div class="col-6 col-lg-4 col-md-4">
 						 <div class="product-item">
 					<div class="product-img object-fit">
-						<img src="img/slider-img.jpg" alt="">
+						<a href=""><img src="img/slider-img.jpg" alt=""></a>
 					</div>
 					<div class="product-title">
-						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+						<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 					</div>
 					<ul class="product-detail-list">
 								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
@@ -310,17 +310,17 @@
 					<div class="price">
 						<h3>Текущая ставка <span>365 540 ₽</span></h3>
 					</div>
-					<a href="">смотреть лот</a>
+					<a class="product-link" href="">смотреть лот</a>
 				</div>
 					</div>
 
 					<div class="col-6 col-lg-4 col-md-4">
 						 <div class="product-item">
 					<div class="product-img object-fit">
-						<img src="img/slider-img.jpg" alt="">
+						<a href=""><img src="img/slider-img.jpg" alt=""></a>
 					</div>
 					<div class="product-title">
-						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+						<a href=""><p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p></a>
 					</div>
 					<ul class="product-detail-list">
 								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
@@ -330,27 +330,7 @@
 					<div class="price">
 						<h3>Текущая ставка <span>365 540 ₽</span></h3>
 					</div>
-					<a href="">смотреть лот</a>
-				</div>
-					</div>
-
-					<div class="col-6 col-lg-4 col-md-4">
-						 <div class="product-item">
-					<div class="product-img object-fit">
-						<img src="img/slider-img.jpg" alt="">
-					</div>
-					<div class="product-title">
-						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
-					</div>
-					<ul class="product-detail-list">
-								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
-								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
-								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
-							</ul>
-					<div class="price">
-						<h3>Текущая ставка <span>365 540 ₽</span></h3>
-					</div>
-					<a href="">смотреть лот</a>
+					<a class="product-link" href="">смотреть лот</a>
 				</div>
 					</div>
 
@@ -370,7 +350,27 @@
 					<div class="price">
 						<h3>Текущая ставка <span>365 540 ₽</span></h3>
 					</div>
-					<a href="">смотреть лот</a>
+					<a class="product-link" href="">смотреть лот</a>
+				</div>
+					</div>
+
+					<div class="col-6 col-lg-4 col-md-4">
+						 <div class="product-item">
+					<div class="product-img object-fit">
+						<img src="img/slider-img.jpg" alt="">
+					</div>
+					<div class="product-title">
+						<p>Сплит-система Midea Blanc MSMA1D-24HRN1/MOCA02 -24HN1 on/off</p>
+					</div>
+					<ul class="product-detail-list">
+								<li><img src="img/wall-clock.svg" alt="">Осталось: <span>1д 3ч 3м</span></li>
+								<li><img src="img/product.svg" alt="">Ед. в лоте: <span>25</span></li>
+								<li><img src="img/law.svg" alt="">Розничная цена: <span>2500 p.</span></li>
+							</ul>
+					<div class="price">
+						<h3>Текущая ставка <span>365 540 ₽</span></h3>
+					</div>
+					<a class="product-link" href="">смотреть лот</a>
 				</div>
 					</div>
 
