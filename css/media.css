@@ -1182,10 +1182,6 @@
     margin: 0 auto 17px;
   }
 
-  .catalog-content .row .col-lg-4:last-child {
-    display: none;
-  }
-
   .catalog-content .container {
     max-width: 400px;
   }
