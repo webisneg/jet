@@ -105,6 +105,24 @@
 					<div class="work-flex">
 						<div>
 							<div class="work-icon">
+								<img src="img/delivery-truck.svg" alt="">
+							</div>
+						</div>
+						<div>
+							<h3>Оплата и доставка</h3>
+						</div>
+					</div>
+					<div class="work-divider"></div>
+					<p>После завершения аукциона вы оплачиваете его удобным для вас способом, и забираете с нашего склада, или можете заказать его доставку прямо вам у нас.</p>
+					<span>04</span>
+				</div>
+			</div>
+
+			<div class="col-lg-6">
+				<div class="work-block">
+					<div class="work-flex">
+						<div>
+							<div class="work-icon">
 								<img src="img/law.svg" alt="">
 							</div>
 						</div>
@@ -118,23 +136,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6">
-				<div class="work-block">
-					<div class="work-flex">
-						<div>
-							<div class="work-icon">
-								<img src="img/delivery-truck.svg" alt="">
-							</div>
-						</div>
-						<div>
-							<h3>Оплата и доставка</h3>
-						</div>
-					</div>
-					<div class="work-divider"></div>
-					<p>После завершения аукциона вы оплачиваете его удобным для вас способом, и забираете с нашего склада, или можете заказать его доставку прямо вам у нас.</p>
-					<span>04</span>
-				</div>
-			</div>
+			
 
 
 			<div class="col-lg-6">

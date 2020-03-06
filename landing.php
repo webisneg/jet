@@ -467,23 +467,6 @@
 				</div>
 			</div>
 
-			<div class="item">
-				<div class="work-block">
-					<div class="work-flex">
-						<div>
-							<div class="work-icon">
-								<img src="img/law.svg" alt="">
-							</div>
-						</div>
-						<div>
-							<h3>Аукцион</h3>
-						</div>
-					</div>
-					<div class="work-divider"></div>
-					<p>После проверки лота, мы устраиваем аукцион по его продаже. Чтобы купить интересующий вас лот, просто поставьте на него наибольшую ставку.</p>
-					<span>03</span>
-				</div>
-			</div>
 
 			<div class="item">
 				<div class="work-block">
@@ -502,6 +485,26 @@
 					<span>04</span>
 				</div>
 			</div>
+
+			<div class="item">
+				<div class="work-block">
+					<div class="work-flex">
+						<div>
+							<div class="work-icon">
+								<img src="img/law.svg" alt="">
+							</div>
+						</div>
+						<div>
+							<h3>Аукцион</h3>
+						</div>
+					</div>
+					<div class="work-divider"></div>
+					<p>После проверки лота, мы устраиваем аукцион по его продаже. Чтобы купить интересующий вас лот, просто поставьте на него наибольшую ставку.</p>
+					<span>03</span>
+				</div>
+			</div>
+
+			
 
 
 			<div class="item">
