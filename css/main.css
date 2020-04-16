@@ -1337,6 +1337,11 @@ font-size: 18px;
     right: 27px;
 }
 
+.general-category .category-group div:last-child > a .category-img {
+ bottom: -4px;
+    right: 4px;
+}
+
 .category-group div:last-child > a .category-img {
    bottom: 20px;
     right: 24px;
@@ -1889,11 +1894,16 @@ font-size: 18px;
     right: 55px;
 }
 
-
-
 .landing-category .category-img img {
     width: 100%;
 }
+
+
+.general-category .landing-category .category-img img {
+    width: 122%;
+}
+
+
 .landing-category .category-img {
     position: absolute;
     right: 58px;

@@ -57,7 +57,7 @@
 </section>
 
 
-<section class="landing-category">
+<section class="general-category landing-category">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
