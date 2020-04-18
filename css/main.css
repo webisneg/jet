@@ -2589,7 +2589,12 @@ font-size: 14px;
 .reset-pass .popup-block {
     border-radius: 0;
     background-color: transparent;
-    box-shadow: none;
+    box-shadow: 0px 4px 9px 0px rgba(73, 73, 73, 0.35);
+}
+
+.reset-pass .popup-block h2 {
+    text-transform: initial;
+    font-size: 22px;
 }
 
 .forgot-pass {
@@ -2597,6 +2602,10 @@ font-size: 14px;
     justify-content: center;
     align-items: center;
     margin: 10px 0 0;
+}
+
+.mfp-close-btn-in .mfp-close{
+    display: none;
 }
 
 /*======== end Footer ========*

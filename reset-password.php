@@ -22,15 +22,13 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="popup-block">
+          <div class="popup-title">
+        <h2>Введите адрес электронной почты на который <br> вы регистрировались </h2>
+      </div>
       <div>
         <form action="" method="POST">
           <input type="email" placeholder="E-Mail Address">
-          <input type="email" placeholder="Новый пароль">
-          <input type="email" placeholder="Подтверждение">
-          <div class="forgot-pass">
-        <a href="">Забыли пароль?</a>
-      </div>
-          <button>Send Password Reset Link</button>
+          <button>восстановить пароль</button>
         </form>
       </div>
       <div class="close-btn">
