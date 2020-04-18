@@ -87,18 +87,22 @@
 	<div id="popup-login" class="white-popup mfp-hide mfp-with-anim">
 		<div class="popup-block">
 			<div class="popup-title">
-        <h2>Войти или Зарегестрироваться</h2>
-        <p>Для того, чтобы получить доступ к всем самым выгодным аукционам, зарегистрируйте пожалуйста свой аккаунт.</p>
-			</div>
+				<h2>Вход</h2>
+			</div> 
 			<div>
-				<form action="" method="POST">
-					<input type="email" placeholder="Email">
-					<button>Продолжить</button>
+				<form method="post" action="https://restocker.ru/login">
+					<input type="email" placeholder="Ваш email" name="email">
+					<input type="password" placeholder="Ваш пароль" name="password">
+					<input type="hidden" name="remember" value="1">
+					<div class="popup-flex">
+						<div>
+							<a href="">Забыли пароль?</a>
+						</div>
+					</div> 
+					<button type="submit">Войти</button>
+					<a class="popup-link" href="">Зарегистрироваться</a>	 
 				</form>
 			</div>
-			<div class="close-btn">
-					<img src="img/close.svg" alt="">
-				</div>
 		</div>
 	</div>
 

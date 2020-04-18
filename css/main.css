@@ -2480,7 +2480,7 @@ font-size: 14px;
     border-radius: 15px;
     background-color: rgb(255, 255, 255);
     box-shadow: 0px 4px 9px 0px rgba(73, 73, 73, 0.35);
-    max-width: 667px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 38px 39px 40px;
 }
@@ -2606,6 +2606,31 @@ font-size: 14px;
 
 .mfp-close-btn-in .mfp-close{
     display: none;
+}
+
+.popup-block .popup-link {
+    border-radius: 5px;
+    border: 2px solid rgb(70, 67, 242);
+    background-color: transparent;
+    width: 281px;
+    height: 45px;
+    text-align: center;
+    cursor: pointer;
+    display: block;
+    margin: 19px auto 0;
+    line-height: 43px;
+    font-size: 16px;
+    color: rgb(70, 67, 242);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.9px;
+    text-decoration: none;
+}
+
+.popup-flex {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 /*======== end Footer ========*
