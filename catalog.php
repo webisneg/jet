@@ -2,7 +2,7 @@
 
 <main class="main">
 
-<section class="catalog-top">
+<!-- <section class="catalog-top">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -27,6 +27,22 @@
 		</div>
 		</div>
 	</div>
+</section> -->
+
+<section class="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-8 col-lg-7 col-md-8">
+        <h3>Ликвидации акссесуаров <br> к компютерам и ноутбукам от крупнейших ритейлеров</h3>
+        <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
+      </div>
+      <div class="col-4 col-lg-5 col-md-4">
+        <div class="banner-img">
+          <img src="img/category-img.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 
