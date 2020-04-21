@@ -347,7 +347,7 @@ text-decoration: underline;
 
 .breadcrums ul li{
     display: inline-block;
-    font-size: 12px;
+    font-size: 10px;
 text-transform: uppercase;
 color: rgb(122, 122, 122);
 }
@@ -1218,7 +1218,7 @@ font-size: 18px;
 
 /*======== beg Catalog ========*/
 .catalog-top {
-    padding: 49px 0 88px;
+    padding: 20px 0 88px;
     background-color: rgb(247, 247, 247);
 }
 
@@ -2213,7 +2213,7 @@ font-size: 18px;
 
 /*======== beg About ========*/
 .catalog-top.about-top {
-    padding: 49px 0 41px;
+    padding: 20px 0 41px;
 }
 
 .about {
@@ -2359,9 +2359,10 @@ font-size: 18px;
 }
 
 .top-fixed h3 img {
-    margin: 0 5px 0 6px;
+    margin: 0;
     position: relative;
     top: -2px;
+    width: 28px;
 }
 
 .top-fixed a {
@@ -2376,6 +2377,10 @@ font-size: 18px;
     line-height: 30px;
     font-weight: 500;
     margin-left: 13px;
+}
+
+.top-fixed a:hover{
+    background-color: #ffa500;
 }
 
 .top-flex{
