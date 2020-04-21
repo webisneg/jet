@@ -24,6 +24,27 @@
 </head>
 <body>
 
+<div class="top-fixed">
+	<div class="container">
+		<div class="row">
+		<div class="col-lg-12">
+			<div class="top-flex">
+				<div>
+					<div class="d-none d-lg-block">
+						<h3><img src="img/fire.png" alt=""> Тут самые горячие аукционы ликвидаций</h3>
+					</div>
+					<div class="d-block d-lg-none">
+						<h3><img src="img/fire.png" alt=""> Горячие ликвидации</h3>
+					</div>
+				</div>
+				<div>
+					<a href="">смотреть лоты</a>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</div>
 
 <header class="header">
 	<div class="header-block">

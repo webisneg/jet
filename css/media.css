@@ -778,6 +778,15 @@
   .footer-logo img {
     max-width: 100%;
   }
+
+.top-fixed h3 {
+    font-size: 25px;
+}
+
+.top-fixed h3 img {
+    width: 19px;
+}
+
 }
 
 /* Small Devices, Tablets */
@@ -1582,6 +1591,25 @@
   .main {
     overflow: hidden;
   }
+
+.top-fixed h3 img {
+    width: 13px;
+    margin: 0;
+}
+
+.top-fixed h3 {
+    font-size: 15px;
+}
+
+.top-fixed a {
+    width: auto;
+    height: 30px;
+    font-size: 15px;
+    line-height: 30px;
+    margin-left: 8px;
+    padding: 0 8px;
+}
+
 }
 
 @media only screen and (max-width: 370px) {
@@ -1595,4 +1623,14 @@
   .price h3 span {
     font-size: 8.44px;
   }
+
+  .top-fixed h3 {
+    font-size: 12px;
+}
+
+.top-fixed a {
+    font-size: 12px;
+    padding: 0 5px;
+}
+
 }

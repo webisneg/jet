@@ -2340,6 +2340,54 @@ font-size: 18px;
 
 
 
+/*======== beg New style ========*/
+
+.top-fixed {
+    background-color: #4643f2;
+    padding: 6px 0 11px;
+}
+
+.top-fixed .row{
+    align-items: center;
+}
+
+.top-fixed h3 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.8px;
+    line-height: 1;
+}
+
+.top-fixed h3 img {
+    margin: 0 5px 0 6px;
+    position: relative;
+    top: -2px;
+}
+
+.top-fixed a {
+    border-radius: 5px;
+    background-color: rgb(248,54,0);
+    width: 170px;
+    height: 33px;
+    display: block;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 30px;
+    font-weight: 500;
+    margin-left: 13px;
+}
+
+.top-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*======== end New style ========*/
+
+
 /*======== beg Footer ========*/
 .footer {
     background-color: rgb(255, 255, 255);
