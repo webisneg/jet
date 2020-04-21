@@ -787,6 +787,57 @@
     width: 19px;
 }
 
+.banner h3 {
+    font-size: 30px;
+}
+
+.banner p {
+    font-size: 18px;
+    width: 87%;
+}
+
+.banner .row{
+  align-items: center;
+}
+
+.banner-img {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.banner-img img{
+  max-width: 100%;
+}
+
+.banner-tablet .banner-img {
+    position: relative;
+    left: 0;
+    top: 26px;
+}
+
+.banner-mobile .banner-img {
+    position: relative;
+    left: 0;
+    top: 31px;
+}
+
+.banner-headphone .banner-img {
+    position: relative;
+    left: 0;
+    top: 24px;
+}
+
+.banner-headphone {
+    padding: 53px 0 22px;
+}
+
+.banner-other .banner-img {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
 }
 
 /* Small Devices, Tablets */
@@ -911,6 +962,36 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+.banner h3 {
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.banner p {
+    font-size: 10px;
+    line-height: 1.2;
+    width: 90%;
+}
+
+.banner .container {
+    max-width: 400px;
+}
+
+.banner {
+    padding: 15px 0 22px;
+}
+
+.banner-img img {
+    max-width: 144%;
+}
+
+.banner h3 {
+    font-size: 16px;
+    line-height: 1.25;
+    margin-bottom: 22px;
+}
+
 }
 
 /* Extra Small Devices, Phones */
@@ -1610,6 +1691,34 @@
     padding: 0 8px;
 }
 
+.banner p {
+    width: 100%;
+}
+
+.banner h3 {
+    font-size: 14px;
+}
+
+.banner-img {
+    left: -30px;
+}
+
+.banner-tablet .banner-img {
+    left: -30px;
+}
+
+.banner-mobile .banner-img {
+    left: -20px;
+}
+
+.banner-headphone .banner-img {
+    left: -40px;
+}
+
+.banner-other .banner-img {
+    left: -30px;
+}
+
 }
 
 @media only screen and (max-width: 370px) {
@@ -1631,6 +1740,18 @@
 .top-fixed a {
     font-size: 12px;
     padding: 0 5px;
+}
+
+.banner-tablet .banner-img {
+    top: 43px;
+}
+
+.banner-mobile .banner-img {
+    top: 44px;
+}
+
+.banner-headphone .banner-img {
+    top: 27px;
 }
 
 }

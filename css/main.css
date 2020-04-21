@@ -2388,6 +2388,111 @@ font-size: 18px;
 /*======== end New style ========*/
 
 
+/*======== beg Banners ========*/
+.banner {
+    background-color: #ff7e69;
+    padding: 53px 0 22px;
+    overflow: hidden;
+}
+
+.banner .container{
+   max-width: 1030px;
+}
+
+.banner h3 {
+    font-size: 36px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 0.972;
+    margin: 0 0 22px;
+}
+
+.banner p {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    line-height: 1.25;
+    width: 72%;
+    letter-spacing: 0.4px;
+}
+
+.banner-img {
+    position: absolute;
+    left: -33px;
+    top: 6px;
+}
+
+.banner-tablet{
+    background-color: #f8d849; 
+}
+
+
+.banner-tablet .banner-img {
+    position: absolute;
+    left: 33px;
+    top: -53px;
+}
+
+.banner-black h3{
+  color: rgb(0, 0, 0);
+}
+
+.banner-black p {
+  color: rgb(0, 0, 0);
+}
+
+.banner-mobile{
+    background-color: #45bdfa;
+}
+
+.banner-mobile .banner-img {
+    position: absolute;
+    left: 68px;
+    top: -37px;
+}
+
+.banner-other{
+    background-color: #30d5c8;
+}
+
+.banner-other .banner-img {
+    position: absolute;
+    left: 103px;
+    top: -48px;
+}
+
+.banner-headphone {
+    background-color: #fdafc5;
+    padding: 53px 0 69px;
+}
+
+.banner-headphone .banner-img {
+    position: absolute;
+    left: 56px;
+    top: -54px;
+}
+
+.banner-headphone h3 {
+    margin-bottom: 30px;
+}
+
+.banner-headphone p {
+    font-size: 20px;
+    font-weight: 300;
+    width: 100%;
+}
+
+.banner-catalog {
+    background-color: #4641fd;
+    padding: 53px 0 90px;
+}
+/*======== end Banners ========*/
+
+
+
+
+
+
+
 /*======== beg Footer ========*/
 .footer {
     background-color: rgb(255, 255, 255);
