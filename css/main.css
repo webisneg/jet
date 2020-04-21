@@ -1218,7 +1218,7 @@ font-size: 18px;
 
 /*======== beg Catalog ========*/
 .catalog-top {
-    padding: 20px 0 88px;
+    padding: 10px 0 88px;
     background-color: rgb(247, 247, 247);
 }
 
@@ -2213,7 +2213,7 @@ font-size: 18px;
 
 /*======== beg About ========*/
 .catalog-top.about-top {
-    padding: 20px 0 41px;
+    padding: 10px 0 41px;
 }
 
 .about {
