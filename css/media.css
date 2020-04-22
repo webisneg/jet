@@ -179,6 +179,10 @@
     width: 269px;
 }
 
+.sticky-product ul li {
+    margin-right: 21px;
+}
+
 }
 
 /* Medium Devices, Desktops */
@@ -858,7 +862,7 @@
 
 .flex-form {
     justify-content: center;
-    max-width: 240px;
+    max-width: 500px;
     margin: 0 auto;
     flex-direction: column;
 }
@@ -875,13 +879,13 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    max-width: 240px;
+    max-width: 500px;
     margin: 0 auto 10px;
 }
 
-.sticky-product h3{
-  margin: 0;
-  font-size: 12px;
+.sticky-product h3 {
+    margin: 0;
+    font-size: 18px;
 }
 
 .product-images {
@@ -1773,6 +1777,20 @@
 
 .banner-other .banner-img {
     left: -30px;
+}
+
+.flex-form {
+    max-width: 240px;
+}
+
+
+.flex-start {
+    max-width: 240px;
+}
+
+.sticky-product h3 {
+    margin: 0;
+    font-size: 12px;
 }
 
 }
