@@ -2504,6 +2504,111 @@ font-size: 18px;
 
 
 
+.sticky-product {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0px 5px 18px 0px rgba(60, 60, 60, 0.16);
+    background: #ffffff;
+    z-index: 999;
+    padding: 27px 0 25px;
+}
+
+.sticky-product .container {
+    max-width: 1140px;
+}
+
+.product-images {
+    width: 98px;
+    height: 98px;
+    border-radius: 2px;
+    overflow: hidden;
+    margin-right: 32px;
+}
+
+.flex-start{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.sticky-product h3 {
+    font-size: 20px;
+    color: rgba(28, 30, 29, 0.831);
+    font-weight: bold;
+    line-height: 1.35;
+    width: 101%;
+    margin: 0 0 18px;
+}
+
+.sticky-product ul li img {
+    width: 21px;
+    margin-right: 6px;
+}
+
+.sticky-product ul li {
+    display: inline-block;
+    list-style: none;
+    font-size: 14px;
+    color: rgb(28, 30, 29);
+    padding-left: 4px;
+    letter-spacing: 0.7px;
+    margin-right: 57px;
+}
+
+.sticky-product ul li:last-child{
+    margin-right: 0;
+}
+
+
+.sticky-product ul li span {
+    font-weight: bold;
+    margin-left: 6px;
+}
+
+.flex-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 6px 0 16px;
+}
+
+.flex-form input{
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(47, 210, 198);
+  border-radius: 4px;
+  background-color: rgb(255, 255, 255);
+  width: 295px;
+  height: 47px;
+  padding-left: 20px;
+}
+
+.sticky-product button {
+    width: 231px;
+    height: 45px;
+    background-color: rgb(47, 210, 198);
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.sticky-product button:hover {
+    transform: scale(1.05);
+}
+
+.price-span{
+  color: rgb(70, 67, 242);
+}
+
+.span-persent {
+  color: rgb(242, 71, 151);
+}
 
 
 

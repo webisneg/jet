@@ -2,6 +2,44 @@
 
 <main class="main">
 
+<div class="sticky-product">
+	<div class="container">
+		<div class="row">
+		<div class="col-lg-6">
+			<div class="flex-start">
+				<div>
+					<div class="product-images object-fit">
+						<img src="img/slider-img.jpg" alt="">
+					</div>
+				</div>
+				<div>
+					<h3>Сплит-система Midea Blanc <br> MSMA1D-24HRN1/MOCA02-24HN1 on/off</h3>
+					<ul>
+						<li><img src="img/rich.svg" alt=""> Розничная стоимость: <span>2500 р.</span></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-6">
+			<div class="flex-form">
+				<div>
+					<input type="text">
+				</div>
+				<div>
+					<button>поставить ставку</button>
+				</div>
+			</div>
+			<ul>
+				<li><img src="img/law.svg" alt=""> Текущая ставка: <span class="price-span">365 540 ₽</span></li>
+				<li><img src="img/rich.svg" alt=""> Вы заработаете: <span class="span-persent">123 %</span></li>
+			</ul>
+		</div>
+		</div>
+	</div>
+</div>
+
+
+
 <section class="product-details">
 	<div class="container">
 		<div class="row d-lg-none">

@@ -169,6 +169,16 @@
   .top-section .goods h3 {
     font-size: 16px;
   }
+
+.sticky-product h3 {
+    font-size: 18px;
+    margin: 0 0 18px;
+}
+
+.flex-form input {
+    width: 269px;
+}
+
 }
 
 /* Medium Devices, Desktops */
@@ -836,6 +846,52 @@
     position: relative;
     left: 0;
     top: 0;
+}
+
+.sticky-product ul{
+  display: none;
+}
+
+.flex-form input {
+    display: none;
+}
+
+.flex-form {
+    justify-content: center;
+    max-width: 240px;
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+.flex-form > div{
+  width: 100%;
+}
+
+.flex-form button{
+  width: 100%;
+}
+
+.flex-start {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 240px;
+    margin: 0 auto 10px;
+}
+
+.sticky-product h3{
+  margin: 0;
+  font-size: 12px;
+}
+
+.product-images {
+    width: 55px;
+    height: 55px;
+    margin-right: 15px;
+}
+
+.sticky-product {
+    padding: 17px 0 15px;
 }
 
 }
