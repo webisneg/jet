@@ -341,9 +341,9 @@ text-decoration: underline;
     padding: 49px 0 14px;
 }
 
-.breadcrums {
+/*.breadcrums {
     margin: 0 0 28px;
-}
+}*/
 
 .breadcrums ul li{
     display: inline-block;
@@ -1218,7 +1218,7 @@ font-size: 18px;
 
 /*======== beg Catalog ========*/
 .catalog-top {
-    padding: 10px 0 88px;
+    padding: 10px 0 10px;
     background-color: rgb(247, 247, 247);
 }
 

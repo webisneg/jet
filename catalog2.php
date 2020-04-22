@@ -2,7 +2,7 @@
 
 <main class="main">
 
-<!-- <section class="catalog-top">
+<section class="catalog-top">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -17,17 +17,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="title-page">
-					<h1>Каталог товаров</h1>
-				</div>
-				<div class="title-divider"></div>
-			</div>
-		</div>
 		</div>
 	</div>
-</section> -->
+</section>
 
 <section class="banner">
   <div class="container">
