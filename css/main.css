@@ -2353,15 +2353,15 @@ font-size: 18px;
 
 .top-fixed h3 {
     font-size: 20px;
-    color: rgb(255, 255, 255);
-    letter-spacing: 0.8px;
+    color: #fff;
+    letter-spacing: .8px;
     line-height: 1;
+    display: flex;
+    align-items: center;
 }
 
 .top-fixed h3 img {
     margin: 0;
-    position: relative;
-    top: -2px;
     width: 28px;
 }
 
