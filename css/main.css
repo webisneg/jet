@@ -1222,6 +1222,10 @@ font-size: 18px;
     background-color: rgb(247, 247, 247);
 }
 
+.catalog-top.no-banner {
+    padding: 10px 0 80px;
+}
+
 .catalog-top h1{
   font-size: 36px;
   color: rgb(59, 59, 59);
@@ -1269,6 +1273,7 @@ font-size: 18px;
 
 .filter-block-container {
     position: sticky;
+    top: 60px;
 }
 
 .filter-block ul {
