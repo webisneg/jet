@@ -1267,6 +1267,10 @@ font-size: 18px;
     margin-bottom: 12px;
 }
 
+.filter-block-container {
+    position: sticky;
+}
+
 .filter-block ul {
     margin: 0 0 46px;
 }
