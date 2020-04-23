@@ -2573,7 +2573,10 @@ font-size: 18px;
     line-height: 1.35;
     width: 101%;
     margin: 0 0 18px;
+    height: 54px;
 }
+
+
 
 .sticky-product ul li img {
     width: 21px;
