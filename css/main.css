@@ -2581,6 +2581,7 @@ font-size: 18px;
 .sticky-product ul li img {
     width: 21px;
     margin-right: 6px;
+    vertical-align: middle;
 }
 
 .sticky-product ul li {
@@ -2607,7 +2608,7 @@ font-size: 18px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 6px 0 16px;
+    margin: 6px 0 18px;
 }
 
 .flex-form input{
