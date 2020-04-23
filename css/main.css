@@ -2405,7 +2405,7 @@ font-size: 18px;
 /*======== beg Banners ========*/
 .banner {
     background-color: #ff7e69;
-    padding: 53px 0 22px;
+    padding: 20px 0 22px;
     overflow: hidden;
 }
 
@@ -2476,7 +2476,7 @@ font-size: 18px;
 
 .banner-headphone {
     background-color: #fdafc5;
-    padding: 53px 0 69px;
+    padding: 20px 0 69px;
 }
 
 .banner-headphone .banner-img {
@@ -2497,8 +2497,25 @@ font-size: 18px;
 
 .banner-catalog {
     background-color: #4641fd;
-    padding: 53px 0 90px;
+    padding: 20px 0 90px;
 }
+
+.breadcrums {
+    margin: 0 0 15px;
+}
+
+.breadcrums ul li{
+    color: #000000;
+}
+
+.breadcrums ul li span{
+    color: #000000;
+}
+
+.breadcrums ul li a{
+    color: #000000;
+}
+
 /*======== end Banners ========*/
 
 
@@ -2512,6 +2529,11 @@ font-size: 18px;
     background: #ffffff;
     z-index: 999;
     padding: 27px 0 25px;
+    display: none;
+}
+
+.sticky-product.active{
+    display: block;
 }
 
 .sticky-product .container {

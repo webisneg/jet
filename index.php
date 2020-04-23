@@ -2,7 +2,7 @@
 
 <main class="main">
 
-<div class="sticky-product">
+<div class="sticky-product active">
 	<div class="container">
 		<div class="row">
 		<div class="col-lg-6">
@@ -21,13 +21,22 @@
 			</div>
 		</div>
 		<div class="col-lg-6">
-			<div class="flex-form">
+			<div class="d-none d-lg-block">
+				<div class="flex-form">
 				<div>
 					<input type="text">
 				</div>
 				<div>
 					<button>Сделать ставку</button>
 				</div>
+			</div>
+			</div>
+			<div class="d-block d-lg-none">
+				<div class="flex-form">
+				<div>
+					<button>Сделать ставку</button>
+				</div>
+			</div>
 			</div>
 			<ul>
 				<li><img src="img/law.svg" alt=""> Текущая ставка: <span class="price-span">365 540 ₽</span></li>

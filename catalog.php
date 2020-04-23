@@ -2,7 +2,7 @@
 
 <main class="main">
 
-<!-- <section class="catalog-top">
+<section class="catalog-top">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -27,7 +27,7 @@
 		</div>
 		</div>
 	</div>
-</section> -->
+</section>
 
 <section class="banner">
   <div class="container">
