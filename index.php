@@ -40,7 +40,7 @@
 			</div>
 			<ul>
 				<li><img src="img/law.svg" alt=""> Текущая ставка: <span class="price-span">365 540 ₽</span></li>
-				<li><img src="img/rich.svg" alt=""> Вы заработаете: <span class="span-persent">9999999 ₽</span></li>
+				<li><img src="img/rich-strelka.svg" alt=""> Вы заработаете: <span class="span-persent">9999999 ₽</span></li>
 			</ul>
 		</div>
 		</div>
