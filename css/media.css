@@ -886,6 +886,7 @@
 .sticky-product h3 {
     margin: 0;
     font-size: 18px;
+    height: auto;
 }
 
 .product-images {
