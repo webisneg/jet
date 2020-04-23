@@ -898,6 +898,14 @@
     padding: 17px 0 15px;
 }
 
+.banner-hot .banner-img {
+    top: 0px;
+}
+
+.banner-hot .banner-img  img{
+  width: 110%;
+}
+
 }
 
 /* Small Devices, Tablets */

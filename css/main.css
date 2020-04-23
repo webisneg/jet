@@ -2495,6 +2495,18 @@ font-size: 18px;
     width: 100%;
 }
 
+.banner-hot{
+    background-color: #fb6c6e;
+}
+
+.banner-hot .banner-img {
+    top: -38px;
+}
+
+.banner-hot .banner-img img{
+    width: 95%;
+}
+
 .banner-catalog {
     background-color: #4641fd;
     padding: 20px 0 90px;
