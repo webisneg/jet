@@ -8,7 +8,7 @@
 		<div class="col-lg-6">
 			<div class="flex-start">
 				<div>
-					<div class="product-images object-fit">
+					<div class="product-images">
 						<img src="img/slider-img.jpg" alt="">
 					</div>
 				</div>
