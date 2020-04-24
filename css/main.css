@@ -1430,7 +1430,7 @@ font-size: 18px;
 
 .pagination {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     list-style: none;
     margin-left: 6px;

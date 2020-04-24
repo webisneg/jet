@@ -104,7 +104,7 @@
 				</div>
 			</div>
 			<div class="col-lg-9">
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col-lg-12">
 						<div class="sort-block">
 							<div>
@@ -142,7 +142,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="row">
 
 					<div class="col-6 col-lg-4 col-md-4">
@@ -326,6 +326,19 @@
 				</div>
 					</div>
 
+				</div>
+					<div class="row">
+					<div class="col-lg-12">
+						<ul class="pagination">
+											<li><a href=""><img src="img/arrow-point-to-left.svg" alt=""></a></li>
+											<li><a class="active" href="">1</a></li>
+											<li><a href="">2</a></li>
+											<li><a href="">3</a></li>
+											<li><span>...</span></li>
+											<li><a href="">20</a></li>
+											<li><a href=""><img src="img/arrow-point-to-right.svg" alt=""></a></li>
+										</ul>
+					</div>
 				</div>
 			</div>
 		</div>
