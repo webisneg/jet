@@ -329,7 +329,7 @@
 				</div>
 					<div class="row">
 					<div class="col-lg-12">
-						<ul class="pagination">
+						<ul class="pagination pagination-center">
 											<li><a href=""><img src="img/arrow-point-to-left.svg" alt=""></a></li>
 											<li><a class="active" href="">1</a></li>
 											<li><a href="">2</a></li>

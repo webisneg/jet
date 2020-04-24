@@ -1430,10 +1430,14 @@ font-size: 18px;
 
 .pagination {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     list-style: none;
     margin-left: 6px;
+}
+
+.pagination.pagination-center{
+  justify-content: center;
 }
 
 .pagination li a{
@@ -2482,7 +2486,7 @@ font-size: 18px;
 .banner-headphone .banner-img {
     position: absolute;
     left: 56px;
-    top: -54px;
+    top: -30px;
 }
 
 .banner-headphone h3 {
@@ -2492,7 +2496,6 @@ font-size: 18px;
 .banner-headphone p {
     font-size: 20px;
     font-weight: 300;
-    width: 100%;
 }
 
 .banner-hot{
@@ -2650,6 +2653,58 @@ font-size: 18px;
   color: rgb(242, 71, 151);
 }
 
+
+.product-block h3 {
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  line-height: 1.429;
+  font-weight: 500;
+}
+
+.product-block .product-list a{
+    font-size: 12px;
+}
+
+
+.product-block p {
+  font-size: 14px;
+  color: rgba(52, 52, 52, 0.831);
+  line-height: 1.429;
+}
+
+.product-block .price-text p {
+  font-size: 14px;
+  color: rgb(59, 59, 59);
+  text-align: center;
+}
+
+
+.medium-text p{
+    font-weight: 500;
+}
+
+.product-block h5{
+  font-size: 24px;
+  color: rgb(242, 70, 150);
+  line-height: 0.833;
+  text-align: center;
+  font-weight: 500;
+}
+
+.product-block .make-bet{
+  border-radius: 10px;
+  background-color: rgb(70, 67, 242);
+  box-shadow: 0px 4px 6px 0px rgba(60, 60, 60, 0.16);
+  width: 191px;
+  height: 54px;
+  display: block;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 54px;
+}
 
 
 /*======== beg Footer ========*/
