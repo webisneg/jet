@@ -131,6 +131,28 @@ work.owlCarousel({
     }
 });
 
+var thank = $(".thank-sld");
+
+thank.owlCarousel({
+    dots: true,
+    nav: false,
+    items:1,
+    margin: 25,
+    loop: true,
+    mouseDrag: false,
+    responsive:{
+        0:{
+            items: 1,
+        },
+        767:{
+            items: 1,
+        },
+        992:{
+            items:1,
+        }
+    }
+});
+
 
 }
 
