@@ -327,7 +327,7 @@
 											<div class="register-btn-container">
 												<a class="register-btn" href="">Зарегистрироваться</a>
 												<div class="info-hover">
-													Чтобы увидеть текущие ставки - зарегестрируйтесь. <br> Это бесплатно!
+													Чтобы увидеть <br> текущие ставки - <br> зарегестрируйтесь. <br> Это бесплатно!
 												</div>
 											</div>
 										</div>
