@@ -2194,6 +2194,12 @@
     top: 39px;
 }
 
+.hide-price:before {
+    top: 19px;
+    height: 34px;
+    width: 20px;
+    background-size: contain;
+}
 
 }
 
