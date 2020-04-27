@@ -2209,6 +2209,10 @@
     display: block;
 }
 
+.register-btn-container .info-hover br{
+    display: block;
+}
+
 }
 
 

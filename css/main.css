@@ -2977,6 +2977,10 @@ font-size: 18px;
     z-index: 1;
 }
 
+.register-btn-container .info-hover br{
+    display: none;
+}
+
 .register-btn-container .info-hover:before {
     top: -13px;
     margin-left: 3px;
