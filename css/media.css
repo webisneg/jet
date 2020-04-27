@@ -2038,6 +2038,20 @@
     margin: 0 0 11px;
 }
 
+.product-block h3 {
+    font-size: 10px;
+    line-height: 1.6;
+    padding-right: 8px;
+    margin: 0 0 11px;
+    height: 48px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    white-space: normal;
+}
+
 .product-block .like-product {
     right: -6px;
     top: 9px;
