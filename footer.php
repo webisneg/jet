@@ -170,9 +170,9 @@
 									</div></h6>
       <div class="bottom-popap">
       	<ul>
-      		<li>213 следят</li>
-      		<li>10 Ставок</li>
-      		<li>20 участников</li>
+      		<li><img src="img/eye-1.svg" alt=""> 213 следят</li>
+      		<li><img src="img/dd-1.svg" alt=""> 10 Ставок</li>
+      		<li><img src="img/user-1.svg" alt="">20 участников</li>
       	</ul>
       </div>
 		</div>

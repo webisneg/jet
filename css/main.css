@@ -3260,7 +3260,6 @@ font-size: 18px;
 /*======== beg Popup-bet ========*/
 .popup-bet-inner {
     width: 630px;
-    height: 231px;
     background: #FFFFFF;
     border-radius: 10px;
     position: fixed;
@@ -3367,7 +3366,7 @@ border: 0;
 .bottom-popap {
     background: #F2F3F5;
     margin: 0 -48px;
-    padding: 12px 48px;
+    padding: 6px 48px;
 }
 
 .bottom-popap  ul{
@@ -3382,6 +3381,11 @@ font-size: 15px;
 line-height: 19px;
 color: #AFAFAF;
 list-style: none;
+}
+
+.bottom-popap li img {
+    vertical-align: middle;
+    margin-right: 7px;
 }
 
 /*======== end Popup-bet ========*/
@@ -3683,5 +3687,13 @@ font-size: 14px;
     justify-content: flex-end;
     align-items: center;
 }
+
+.mfp-zoom-in .mfp-with-anim{opacity:0;transition:all .2s ease-in-out;transform:scale(0.8)}
+.mfp-zoom-in.mfp-bg{opacity:0;transition:all .3s ease-out}
+.mfp-zoom-in.mfp-ready .mfp-with-anim{opacity:1;transform:scale(1)}
+.mfp-zoom-in.mfp-ready.mfp-bg{opacity:.8}
+.mfp-zoom-in.mfp-removing .mfp-with-anim{transform:scale(0.8);opacity:0}
+.mfp-zoom-in.mfp-removing.mfp-bg{opacity:0}
+
 
 /*======== end Footer ========*/
