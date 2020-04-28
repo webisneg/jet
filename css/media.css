@@ -1310,6 +1310,7 @@
 
 .bottom-popap ul {
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 }
