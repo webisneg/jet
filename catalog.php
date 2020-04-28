@@ -100,33 +100,70 @@
 </section>
 
 
+<!-- вніс правки -->
+
 <div class="filter-mob d-lg-none">
 	<div class="container">
 		<div class="row">
 			<div class="col-6">
-				<button><img src="img/settings.svg" alt=""> Фильтр</button>
+				<button class="filter-select"><img src="img/down-arrow.svg" alt="">Все категории</button>
 			</div>
 			<div class="col-6">
-				<div class="filter-select">
-				<select >
-					<option value="">Сортировать</option>
-					<option value="">По возрастанию</option>
-					<option value="">По возрастанию</option>
-					<option value="">По возрастанию</option>
-				</select>	
-				</div>
+				<button class="filter-mob-btn"><img src="img/settings.svg" alt="">Фильтр</button>
 			</div>
 		</div>
 	</div>
 </div>
 
+<!-- вніс правки -->
 
 <section class="catalog-content">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3">
+
+
+      <!--  Блок для моб категорій -->
+        <div class="d-block d-lg-none">
+				<div class="filter-select-container">
+					<div class="filter-top d-lg-none">
+				<div class="row">
+					<div class="col-4">
+					</div>
+					<div class="col-4">
+						<h3>Категории</h3>
+					</div>
+					<div class="col-4">
+						<div class="flex-end">
+							<div id="close-select" class="close-filter">
+							<svg fill="#4641fd" alt="" viewBox="0 0 20 20" fill="white" name="close" class="core__Box-sc-1qfvr3i-0 core__Svg-sc-1qfvr3i-2 Icon-sc-4q9mv4-0 fNVZGK"><path d="M10,8.52L17.4,1.1l1.48,1.48L11.48,10,18.9,17.4l-1.48,1.48L10,11.48,2.6,18.9,1.11,17.42,8.52,10,1.1,2.6,2.58,1.11Z" pointer-events="none"></path></svg>
+						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="filter-block">
+						<div>
+							<ul>
+								<li><input id="check1" class="checkbox" type="checkbox"><label for="check1">Каталог</label></li>
+								<li><input id="check2" class="checkbox" type="checkbox"><label for="check2">Одежда, обувь и аксессуары</label></li>
+								<li><input id="check3" class="checkbox" type="checkbox"><label for="check3">Часы и украшения</label></li>
+								<li><input id="check4" class="checkbox" type="checkbox"><label for="check4">Компьютеры и электроника</label></li>
+								<li><input id="check5" class="checkbox" type="checkbox"><label for="check5">Товары на каждый день</label></li>
+							</ul>
+						</div>
+						<div>
+						</div>
+				</div>
+			</div>
+			</div>
+
+
+			<!--  Блок для моб категорій -->
   
          <!-- Фильтер -->
+
+
 
 	<div class="filter-block-container">
 		<div class="filter-top d-lg-none">
@@ -139,7 +176,7 @@
 					</div>
 					<div class="col-4">
 						<div class="flex-end">
-							<div class="close-filter">
+							<div id="close-filter" class="close-filter">
 							<svg fill="#4641fd" alt="" viewBox="0 0 20 20" fill="white" name="close" class="core__Box-sc-1qfvr3i-0 core__Svg-sc-1qfvr3i-2 Icon-sc-4q9mv4-0 fNVZGK"><path d="M10,8.52L17.4,1.1l1.48,1.48L11.48,10,18.9,17.4l-1.48,1.48L10,11.48,2.6,18.9,1.11,17.42,8.52,10,1.1,2.6,2.58,1.11Z" pointer-events="none"></path></svg>
 						</div>
 						</div>

@@ -972,6 +972,26 @@
   border-radius: 2px;
 }
 
+.filter-select-container {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #ffffff;
+    z-index: 999;
+    overflow-y: scroll;
+}
+
+.filter-block ul li a {
+    color: #3b3b3b;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .5px;
+    position: relative;
+}
+
 
 }
 
@@ -2362,6 +2382,29 @@
 
 .filter-block ul {
     margin: 0 0 17px;
+}
+
+.filter-select-container .filter-block{
+  width: 100%;
+  max-width: 100%;
+  padding: 0 0;
+}
+
+.filter-select-container .filter-block ul li label:before {
+    right: auto;
+    left: 0;
+}
+
+.filter-select-container .filter-block ul li label {
+    padding-left: 25px;
+    margin-bottom: 0;
+}
+
+.filter-select-container .filter-block ul li {
+    margin: 0 0 9px;
+    border-bottom: 1px solid rgb(225, 225, 225);
+    padding: 13px 14px;
+    margin-bottom: 0;
 }
 
 }

@@ -64,12 +64,20 @@ function damaxToggleMenu() {
         $(".category-block").slideToggle();
     });
 
-    $(".filter-mob button").click(function() {
+    $(".filter-mob-btn").click(function() {
         $(".filter-block-container").slideToggle();
     });
 
-    $(".close-filter").click(function() {
+    $(".filter-select").click(function() {
+        $(".filter-select-container").slideToggle();
+    });
+
+    $("#close-filter").click(function() {
         $(".filter-block-container").slideToggle();
+    });
+
+    $("#close-select").click(function() {
+        $(".filter-select-container").slideToggle();
     });
 
     $(".icon-calendar").click(function() {
