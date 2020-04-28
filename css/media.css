@@ -183,6 +183,21 @@
     margin-right: 21px;
 }
 
+.popup-bet-inner .flex-form input {
+    display: block;
+    width: 355px;
+}
+
+.popup-bet-inner .flex-form > div {
+    flex-basis: initial;
+    width: auto;
+}
+
+.popup-bet-inner .flex-form {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 }
 
 /* Medium Devices, Desktops */
@@ -1029,6 +1044,14 @@
     max-width: 100%;
 }
 
+.popup-bet-inner .flex-form input {
+    display: block;
+}
+
+.popup-bet-inner .flex-form button {
+    width: 161px;
+}
+
 
 }
 
@@ -1351,6 +1374,19 @@
 .bottom-popap ul {
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+.popup-bet-inner .flex-form > div{
+  width: 100%;
+}
+
+.popup-bet-inner .flex-form {
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.popup-bet-inner .flex-form button{
+  width: 100%;
 }
 
 }
