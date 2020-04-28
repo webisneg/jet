@@ -3274,8 +3274,9 @@ font-size: 18px;
     font-weight: 500;
     font-size: 17px;
     line-height: 21px;
-    color: #000000;
-    letter-spacing: 0.2px;
+    color: #000;
+    letter-spacing: .2px;
+    margin: 0;
 }
 
 .popup-bet-inner h5{
