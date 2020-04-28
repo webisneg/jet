@@ -1255,21 +1255,21 @@ font-size: 18px;
 }
 
 .filter-block {
-    border-radius: 25px;
-    background-color: rgb(247, 247, 247);
+    border-radius: 0px;
     width: 100%;
-    padding: 27px 24px 11px;
+    padding: 27px 0 11px 24px;
 }
 
 .filter-block h3 {
     font-size: 14px;
-    color: rgb(70, 67, 242);
+    color: rgb(86, 106, 143);
     font-weight: bold;
     text-transform: uppercase;
     line-height: 1.429;
     letter-spacing: 0.7px;
-    margin-bottom: 12px;
+    margin-bottom: 4px;
 }
+
 
 .filter-block-container {
     position: sticky;
@@ -1277,12 +1277,20 @@ font-size: 18px;
 }
 
 .filter-block ul {
-    margin: 0 0 46px;
+    margin: 0 0 7px;
 }
 
 .filter-block ul li {
     list-style: none;
-    margin: 0 0 15px;
+    margin: 0 0 0px;
+}
+
+.slider-title {
+    margin: 0 0 19px;
+}
+
+.filter-block  .slider-bottom-title h3{
+  font-size: 12px;
 }
 
 .filter-block ul li input{
@@ -3450,3 +3458,90 @@ font-size: 14px;
 }
 
 /*======== end Footer ========*/
+
+
+.ui-widget.ui-widget-content {
+    background-color: rgb(225, 225, 225);
+    height: 3px;
+    margin: 0 0 22px;
+    border: 0;
+    border-radius: 0;
+}
+
+.ui-slider-horizontal .ui-slider-range {
+   background-color: rgb(153, 189, 255);
+}
+
+.ui-widget-content .ui-state-default {
+    border-width: 2px;
+    border-color: rgb(214, 219, 224);
+    border-style: solid;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    width: 17px;
+    height: 17px;
+}
+
+.ui-widget-content .ui-state-default:focus{
+    outline: 0;
+}
+
+
+.ui-widget-content .ui-state-hover{
+  border-color: rgb(0, 91, 255);
+  background-color: rgb(255, 255, 255);
+}
+
+.range-container{
+    max-width: 191px;
+}
+
+.ouput {
+    max-width: 191px;
+    margin: 0 0 13px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ouput input{
+  border-width: 1px;
+  border-color: rgb(225, 225, 225);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  width: 93px;
+  height: 30px;
+  font-size: 14px;
+  color: rgb(166, 166, 166);
+  padding-left: 30px;
+}
+
+.input-from{
+    position: relative;
+    height: 30px;
+    width: 93px;
+}
+
+.input-to{
+    position: relative;
+    height: 30px;
+    width: 93px;
+}
+
+.input-from:before {
+    content: "от";
+    position: absolute;
+    font-size: 14px;
+    color: rgb(166, 166, 166);
+    left: 8px;
+    top: 6px;
+}
+
+.input-to:before {
+    content: "до";
+    position: absolute;
+    font-size: 14px;
+    color: rgb(166, 166, 166);
+    left: 8px;
+    top: 6px;
+}

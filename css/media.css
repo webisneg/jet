@@ -533,9 +533,6 @@
     flex-basis: 50%;
   }
 
-  .filter-block > div:nth-child(3) {
-    order: 4;
-  }
 
   .catalog-top {
     padding: 37px 0 88px;
@@ -595,7 +592,7 @@
     left: 0;
     z-index: 999;
     overflow-y: scroll;
-    background-color: rgb(247, 247, 247);
+    background-color: #ffffff;
   }
 
   .catalog-content {
@@ -606,11 +603,13 @@
     padding: 20px 0 0;
   }
 
-  .close-filter {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-  }
+.close-filter {
+    position: initial;
+    top: 0;
+    right: 0;
+    height: 20px;
+    width: 20px;
+}
 
   .close-filter svg {
     width: 20px;
@@ -927,6 +926,52 @@
 .product-block .product-list img{
   display: inline-block;
 }
+
+.filter-top button {
+  border-width: 1px;
+  border-color: rgb(225, 225, 225);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 30px;
+  font-size: 14px;
+  color: rgb(20, 104, 255);
+}
+
+.filter-top h3 {
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.filter-top {
+    padding: 10px 10px;
+    border-bottom: 1px solid rgb(225, 225, 225);
+}
+
+.filter-top .row{
+  align-items: center;
+}
+
+.flex-end{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button-block{
+  margin: 10px 0 0;
+}
+
+.button-block button {
+  background-color: rgb(0, 92, 255);
+  width: 190px;
+  height: 40px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  border: 0;
+  border-radius: 2px;
+}
+
 
 }
 
@@ -2225,6 +2270,98 @@
 
 .register-btn-container .info-hover br{
     display: block;
+}
+
+.filter-top button {
+  width: 65px;
+  height: 22px;
+  font-size: 10px;
+}
+
+.close-filter{
+  width: 14px;
+}
+
+.close-filter svg{
+  width: 14px;
+}
+
+.filter-block {
+    padding: 27px 20px 11px;
+}
+
+.range-container {
+    max-width: 350px;
+}
+
+.filter-block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto 30px;
+    padding: 20px 17px;
+    max-width: 350px;
+}
+
+.ouput {
+    max-width: 100%;
+}
+
+.ouput > div{
+  flex-basis: 48%;
+}
+
+.ouput input{
+  width: 100%;
+  background-color: rgb(242, 243, 245);
+  height: 30px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.button-block button{
+  width: 100%;
+}
+
+.filter-block ul li label:before {
+    border-width: 1px;
+    border-color: rgb(225, 225, 225);
+    border-style: solid;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    right: 0;
+    left: auto;
+}
+
+.filter-block ul li label {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+}
+
+.checkbox:checked + label {
+    color: #a6a6a6;
+}
+
+.checkbox:checked + label:before {
+    background-image: none;
+  border-width: 3px;
+  border-color: rgb(0, 91, 255);
+}
+
+.filter-block h3 {
+    margin-bottom: 8px;
+}
+
+.filter-block ul li {
+    margin: 0 0 9px;
+}
+
+.filter-block ul {
+    margin: 0 0 17px;
 }
 
 }

@@ -198,3 +198,53 @@ thank.owlCarousel({
     slidesToScroll: 1,
     asNavFor: '.slick-slider',
   });
+
+
+  $( function() {
+    $( "#slider-bet" ).slider({
+      range: true,
+      min: 0,
+      max: 100000,
+      values: [ 5000, 50000 ],
+      slide: function( event, ui ) {
+        $( "#bet" ).val(ui.values[ 0 ]);
+        $( "#bet2" ).val(ui.values[ 1 ] );
+      }
+    });
+
+     $( "#bet" ).val($( "#slider-bet" ).slider( "values", 0 ) );
+     $( "#bet2").val($( "#slider-bet" ).slider( "values", 1 ) );
+  } );
+
+
+  $( function() {
+    $( "#slider-price" ).slider({
+      range: true,
+      min: 0,
+      max: 111111,
+      values: [ 11111, 111111 ],
+      slide: function( event, ui ) {
+        $( "#price" ).val(ui.values[ 0 ]);
+        $( "#price2" ).val(ui.values[ 1 ] );
+      }
+    });
+
+     $( "#price" ).val($( "#slider-price" ).slider( "values", 0 ) );
+     $( "#price2").val($( "#slider-price" ).slider( "values", 1 ) );
+  } );
+
+    $( function() {
+    $( "#slider-time" ).slider({
+      range: true,
+      min: 0,
+      max:100,
+      values: [ 1, 72 ],
+      slide: function( event, ui ) {
+        $( "#time" ).val(ui.values[ 0 ]);
+        $( "#time2" ).val(ui.values[ 1 ] );
+      }
+    });
+
+     $( "#time" ).val($("#slider-time" ).slider( "values", 0 ) );
+     $( "#time2").val($("#slider-time" ).slider( "values", 1 ) );
+  } );
