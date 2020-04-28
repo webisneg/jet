@@ -354,7 +354,7 @@
 										<p>Розничная цена:  <br> <span class="price-m">2500 р.</span></p>
 										<p class="last-p">Текущая ставка: <br> <span class="price-b">365 540 ₽</span> <span class="info-hover">Уже с НДС</span></p>
 										<div class="d-none d-md-block">
-											<a class="make-bet" href="">сделать ставку</a>
+											<a class="make-bet popup-btn" href="#popup-bet">сделать ставку</a>
 										</div>
 									</div>
 										</div>

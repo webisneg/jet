@@ -134,6 +134,53 @@
 	</div>
 
 
+<!-- Попап для ставок -->
+
+<div id="popup-bet" class="white-popup mfp-hide mfp-with-anim">
+		<div class="popup-bet-inner">
+      <div class="flex-space">
+      	<div>
+      		<h2>ДО КОНЦА АУКЦИОНА ОСТАЛОСЬ:</h2>
+      	</div>
+      	<div>
+      		<h5>1д : 20ч : 52м</h5>
+      	</div>
+      </div>
+      <div class="flex-space">
+      	<div>
+      		<h3>Текущая ставка: <span>115000 ₽ / 131000 ₽ - 1 ед.</span></h3>
+      	</div>
+      	<div>
+      		<h4>Вы заработатете <span>999 999 р.</span></h4>
+      	</div>
+      </div>
+      <div class="flex-form">
+      	<div>
+      		<input type="text" placeholder="Ваша ставка">
+      	</div>
+      	<div>
+      		<button>СДЕЛАТЬ СТАВКУ</button>
+      	</div>
+      </div>
+      <h6>Сделайте ставку не ниже 115000 р. <div class="info">
+										<img src="img/warning-1.svg" alt="">
+										<div class="info-hover">
+											<p>Задача организации, в особенности же постоянный количественный рост и сфера нашей активности позволяет выполнять важные задания по разработке дальнейших направлений развития.</p>
+										</div>
+									</div></h6>
+      <div class="bottom-popap">
+      	<ul>
+      		<li>213 следят</li>
+      		<li>10 Ставок</li>
+      		<li>20 участников</li>
+      	</ul>
+      </div>
+		</div>
+</div>
+
+<!-- Попап для ставок -->
+
+
 	<!--[if lt IE 9]>
 	<script src="libs/html5shiv/es5-shim.min.js"></script>
 	<script src="libs/html5shiv/html5shiv.min.js"></script>
