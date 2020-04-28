@@ -992,6 +992,43 @@
     position: relative;
 }
 
+.filter-select-container .filter-block ul li a {
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    color: #a6a6a6;
+    padding-left: 25px;
+    letter-spacing: 0.6px;
+}
+
+.filter-select-container .filter-block ul li a:before {
+    content: "";
+    border-width: 1px;
+    border-color: rgb(225, 225, 225);
+    border-style: solid;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 0;
+    top: 0px;
+}
+
+.filter-select-container .filter-block ul li {
+    margin: 0 0 9px;
+    border-bottom: 1px solid rgb(225, 225, 225);
+    padding: 13px 14px;
+    margin-bottom: 0;
+}
+
+.filter-select-container .filter-block {
+   display: block;
+    width: 100%;
+    padding: 0;
+    max-width: 100%;
+}
+
 
 }
 

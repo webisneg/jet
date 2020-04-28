@@ -145,11 +145,11 @@
 					<div class="filter-block">
 						<div>
 							<ul>
-								<li><input id="check1" class="checkbox" type="checkbox"><label for="check1">Каталог</label></li>
-								<li><input id="check2" class="checkbox" type="checkbox"><label for="check2">Одежда, обувь и аксессуары</label></li>
-								<li><input id="check3" class="checkbox" type="checkbox"><label for="check3">Часы и украшения</label></li>
-								<li><input id="check4" class="checkbox" type="checkbox"><label for="check4">Компьютеры и электроника</label></li>
-								<li><input id="check5" class="checkbox" type="checkbox"><label for="check5">Товары на каждый день</label></li>
+								<li><a href="">Каталог</a></li>
+								<li><a href="">Одежда, обувь и аксессуары</a></li>
+								<li><a href="">Часы и украшения</a></li>
+								<li><a href="">Компьютеры и электроника</a></li>
+								<li><a href="">Товары на каждый день</a></li>
 							</ul>
 						</div>
 						<div>
