@@ -461,17 +461,36 @@
   }
 
   .category-block ul li {
-    list-style: none;
-    margin: 0 0 12px;
+    margin: 0 0 9px;
+    border-bottom: 1px solid rgb(225, 225, 225);
+    padding: 13px 14px;
+    margin-bottom: 0;
   }
 
   .category-block ul li a {
-    color: #3b3b3b;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: 0.5px;
+    font-size: 14px;
+    font-weight: 500;
     position: relative;
+    color: #a6a6a6;
+    padding-left: 25px;
+    letter-spacing: 0.6px;
   }
+
+ .category-block ul li a:before {
+    content: "";
+    border-width: 1px;
+    border-color: rgb(225, 225, 225);
+    border-style: solid;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 0;
+    top: 0px;
+}
+
+
   .search-col {
     width: 100%;
     padding: 0 20px;
@@ -497,9 +516,9 @@
     margin: 0 -15px 20px;
     padding-left: 15px;
   }
-  .category-block {
-    padding: 20px 15px;
-  }
+.category-block {
+    padding: 0;
+}
 
   .info-hover {
     width: 260px;
@@ -996,7 +1015,6 @@
     width: 100%;
     background: #ffffff;
     z-index: 999;
-    overflow-y: scroll;
 }
 
 .filter-block ul li a {
