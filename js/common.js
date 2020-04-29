@@ -66,18 +66,22 @@ function damaxToggleMenu() {
 
     $(".filter-mob-btn").click(function() {
         $(".filter-block-container").slideToggle();
+        $("body").toggleClass("menu_expand");
     });
 
     $(".filter-select").click(function() {
         $(".filter-select-container").slideToggle();
+        $("body").toggleClass("menu_expand");
     });
 
     $("#close-filter").click(function() {
         $(".filter-block-container").slideToggle();
+        $("body").toggleClass("menu_expand");
     });
 
     $("#close-select").click(function() {
         $(".filter-select-container").slideToggle();
+        $("body").toggleClass("menu_expand");
     });
 
     $(".icon-calendar").click(function() {

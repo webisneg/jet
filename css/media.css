@@ -1070,6 +1070,9 @@
     width: 161px;
 }
 
+.menu_expand {
+    overflow: hidden;
+}
 
 }
 
