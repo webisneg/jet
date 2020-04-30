@@ -198,6 +198,11 @@
     justify-content: space-between;
 }
 
+.category-clothes .category-item {
+    width: 155px;
+    padding: 13px 5px 0 10px;
+}
+
 }
 
 /* Medium Devices, Desktops */
@@ -1634,6 +1639,10 @@
   .category-img img {
     height: 60px;
   }
+
+ .category-clothes .category-img img {
+     height: auto;
+}
 
   .category-img {
     bottom: 10px;

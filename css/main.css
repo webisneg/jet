@@ -2737,6 +2737,10 @@ font-size: 18px;
   line-height: 45px;
 }
 
+.product-block .make-bet:hover{
+    background-color: #005cff;
+}
+
 
 .product-img-flex{
     display: flex;
@@ -3253,6 +3257,10 @@ font-size: 18px;
     border-radius: 2px;
 }
 
+.button-block button:hover{
+    background-color: rgb(70, 67, 242);
+}
+
 
 
 
@@ -3395,6 +3403,37 @@ list-style: none;
 /*======== end Popup-bet ========*/
 
 
+
+/*======== beg Сategory-clothes ========*/
+
+.category-clothes .category-item {
+    width: 165px;
+    height: 165px;
+    padding: 13px 10px 0 15px;
+}
+
+.category-clothes .category-item p {
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  line-height: 1.286;
+}
+
+.category-clothes .category-img {
+    right: 27px;
+    bottom: 3px;
+}
+
+.category-clothes .category-group div:last-child > a .category-img {
+    bottom: 12px;
+    right: 39px;
+}
+
+.category-clothes .category-group div:nth-child(4) > a .category-img {
+    bottom: 27px;
+    right: 20px;
+}
+
+/*======== end Сategory-clothes ========*/
 
 
 

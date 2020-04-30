@@ -2,43 +2,29 @@
 
 <main class="main">
 
-<section class="catalog-top">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="breadcrums">
-					<ul>
-						<li><a href="">Главная</a></li>
-						<li><span>></span></li>
-						<li><a href="">каталог</a></li>
-						<li><span>></span></li>
-						<li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="title-page">
-					<h1>Каталог товаров</h1>
-				</div>
-				<div class="title-divider"></div>
-			</div>
-		</div>
-		</div>
-	</div>
-</section>
 
-<section class="banner">
+<section class="banner banner-catalog">
   <div class="container">
     <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrums">
+          <ul>
+            <li><a href="">Главная</a></li>
+            <li><span>></span></li>
+            <li><a href="">каталог</a></li>
+            <li><span>></span></li>
+            <li>Гарнитуры для PS4 Pro / PS4. Xbox One & More. 951 Единицы</li>
+          </ul>
+        </div>
+        </div>
+      </div>
+    <div class="row">
       <div class="col-8 col-lg-7 col-md-8">
-        <h3>Ликвидации акссесуаров <br> к компютерам и ноутбукам от крупнейших ритейлеров</h3>
+        <h3>Ликвидации товаров</h3>
         <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
       </div>
       <div class="col-4 col-lg-5 col-md-4">
         <div class="banner-img">
-          <img src="img/category-img.png" alt="">
         </div>
       </div>
     </div>
@@ -46,7 +32,8 @@
 </section>
 
 
-<section class="category-section">
+
+<section class="category-section category-clothes">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -54,41 +41,49 @@
 				<div class="category-group">
 					<div>
 						<a class="category-item" href="#">
-							 <p>Одежда, обувь  и аксессуары  </p>
+							 <p>Платье, кофстюмы и пиджаки</p>
 							 <div class="category-img">
-							 	<img src="img/category1.png" alt="">
+							 	<img src="img/category6.png" alt="">
 							 </div>
 						</a>
 					</div>
 					<div>
 						<a class="category-item" href="#">
-							 <p>Часы и  украшения</p>
+							 <p>Джинсы и штаны</p>
 							 <div class="category-img">
-							 	<img src="img/category2.png" alt="">
+							 	<img src="img/category7.png" alt="">
 							 </div>
 						</a>
 					</div>
 					<div>
 						<a class="category-item" href="#">
-							 <p>Компьютеры,  электроника и  техника</p>
+							 <p>Майки, байки, свитера и рубашки</p>
 							 <div class="category-img">
-							 	<img src="img/category3.png" alt="">
+							 	<img src="img/category8.png" alt="">
 							 </div>
 						</a>
 					</div>
 					<div>
 						<a class="category-item" href="#">
-							 <p>Товары <br> для дома </p>
+							 <p>Обувь</p>
 							 <div class="category-img">
-							 	<img src="img/category4.png" alt="">
+							 	<img src="img/category9.png" alt="">
 							 </div>
 						</a>
 					</div>
 					<div>
 						<a class="category-item" href="#">
-							 <p>Товары на каждый день </p>
+							 <p>Верхняя одежда</p>
 							 <div class="category-img">
-							 	<img src="img/category5.png" alt="">
+							 	<img src="img/category10.png" alt="">
+							 </div>
+						</a>
+					</div>
+					<div>
+						<a class="category-item" href="#">
+							 <p>Сумки, очки и аксессуары</p>
+							 <div class="category-img">
+							 	<img src="img/category11.png" alt="">
 							 </div>
 						</a>
 					</div>
