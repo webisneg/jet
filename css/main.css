@@ -3563,6 +3563,11 @@ list-style: none;
     max-height: 100px;
 }
 
+.category-clothes .category-group div:last-child > a .category-img {
+    bottom: 10px;
+    right: 24px;
+}
+
 /*======== end Сategory-clothes ========*/
 
 
