@@ -2654,8 +2654,9 @@ font-size: 18px;
     left: -19px;
 }
 
-.banner-fashion{
+.banner-fashion {
     background-color: #fdca4b;
+    padding: 19px 0 75px;
 }
 
 .banner-fashion p{
@@ -2663,7 +2664,7 @@ font-size: 18px;
 }
 
 .banner-fashion .banner-img {
-    top: -52px;
+    top: -4px;
     left: 26px;
 }
 
