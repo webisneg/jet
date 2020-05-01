@@ -1125,6 +1125,20 @@
     left: 0;
 }
 
+.banner-clothing .banner-img img{
+  max-height: 200px;
+}
+
+.banner h3{
+  height: auto;
+}
+
+.banner-clothing .banner-img {
+    top: -94px;
+    left: 55px;
+    position: absolute;
+}
+
 
 }
 
@@ -1475,7 +1489,8 @@
 }
 
 .banner-clothing .banner-img {
-    top: 41px;
+    top: -87px;
+    left: 0;
 }
 
 .banner-dress .banner-img {
@@ -2772,6 +2787,29 @@
 
 .banner-headphone .banner-img {
     top: 27px;
+}
+
+.banner-hot-clothing .banner-img {
+    top: 47px;
+}
+
+.banner-denim .banner-img {
+    top: 46px;
+}
+
+.banner-shirts .banner-img {
+    top: 55px;
+}
+
+.banner-dress .banner-img {
+    top: 50px;
+}
+
+.banner-bag .banner-img {
+    top: 53px;
+}
+.banner-fashion .banner-img {
+    top: 40px;
 }
 
 }

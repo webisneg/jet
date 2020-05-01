@@ -69,7 +69,12 @@
       </div>
       <div class="col-4 col-lg-5 col-md-4">
         <div class="banner-img">
-          <img src="img/category-img10.png" alt="">
+          <div class="d-none d-lg-block">
+            <img src="img/category-img10.png" alt="">
+          </div>
+          <div class="d-block d-lg-none">
+            <img src="img/category-mob-img10.png" alt="">
+          </div>
         </div>
       </div>
     </div>
