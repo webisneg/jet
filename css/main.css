@@ -1920,7 +1920,7 @@ font-size: 18px;
 }
 
 .landing-category .category-img img {
-    width: 100%;
+    max-width: 100%;
 }
 
 
