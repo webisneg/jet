@@ -1489,7 +1489,7 @@
 }
 
 .banner-clothing .banner-img {
-    top: -87px;
+    top: -70px;
     left: 0;
 }
 
@@ -1532,7 +1532,6 @@
     right: -20px;
     top: -2px;
 }
-
 }
 
 
@@ -2739,6 +2738,14 @@
 
 .banner {
     padding: 15px 0 26px;
+}
+
+.banner-clothing .banner-img {
+    top: -65px;
+}
+
+.banner-clothing .banner-img img {
+    max-width: 100%;
 }
 
 }
