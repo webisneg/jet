@@ -169,7 +169,7 @@ text-decoration: underline;
 
 .category-flex ul li a {
     color: #3b3b3b;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.5px;
@@ -1368,6 +1368,10 @@ font-size: 18px;
     position: absolute;
     right: 15px;
     bottom: 15px;
+}
+
+.category-img img {
+    max-height: 104px;
 }
 
 .category-item p{
@@ -2664,7 +2668,7 @@ font-size: 18px;
 }
 
 .banner-fashion .banner-img {
-    top: -4px;
+    top: 3px;
     left: 26px;
 }
 
@@ -3551,17 +3555,12 @@ list-style: none;
 
 .category-clothes .category-img {
     right: 27px;
-    bottom: 3px;
+    bottom: 10px;
 }
 
-.category-clothes .category-group div:last-child > a .category-img {
-    bottom: 12px;
-    right: 39px;
-}
 
-.category-clothes .category-group div:nth-child(4) > a .category-img {
-    bottom: 27px;
-    right: 20px;
+.category-clothes .category-img img {
+    max-height: 100px;
 }
 
 /*======== end Сategory-clothes ========*/

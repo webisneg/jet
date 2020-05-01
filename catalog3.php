@@ -3,7 +3,7 @@
 <main class="main">
 
 
-<section class="banner banner-catalog">
+<section class="banner banner-black banner-fashion">
   <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -20,11 +20,12 @@
       </div>
     <div class="row">
       <div class="col-8 col-lg-7 col-md-8">
-        <h3>Ликвидации товаров</h3>
+        <h3>Ликвидации одежды крупнейших fashion ритейлеров</h3>
         <p>Покупайте выгодно и зарабатывайте от 100% прибыли на их перепродажи</p>
       </div>
       <div class="col-4 col-lg-5 col-md-4">
         <div class="banner-img">
+          <img src="img/category-img17.png" alt="">
         </div>
       </div>
     </div>

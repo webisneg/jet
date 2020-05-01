@@ -101,16 +101,20 @@
 					<div class="category-flex">
 						<div>
 							<div class="category-container">
-								<ul><li><a href="http://94.230.198.208/jet/public/catalog">все категории</a></li> <li><a href="http://94.230.198.208/jet/public/catalog/1">
-        Одежда, обувь и аксессуары
-    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/7">
-        Часы и украшения
-    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/8">
-        Компьютеры и электроника
-    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/9">
-        Товары для дома
-    </a></li> <li><a href="http://94.230.198.208/jet/public/catalog/10">
-        Товары на каждый день
+								<ul>
+									<li><a href="">Каталог</a></li>
+									<li><a href="https://restocker.ru/catalog/7">
+        Платья, костюмы и пиджаки
+    </a></li> <li><a href="https://restocker.ru/catalog/8">
+        Джинсы и штаны
+    </a></li> <li><a href="https://restocker.ru/catalog/9">
+        Майки, байки, свитера и рубашки
+    </a></li> <li><a href="https://restocker.ru/catalog/10">
+        Обувь
+    </a></li> <li><a href="https://restocker.ru/catalog/11">
+        Верхняя одежда
+    </a></li> <li><a href="https://restocker.ru/catalog/12">
+        Сумки, очки и аксессуары
     </a></li></ul>
 							</div>
 						</div>
