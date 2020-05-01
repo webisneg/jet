@@ -2719,6 +2719,11 @@
 .banner h3 {
     font-size: 14px;
     width: 95%;
+    margin: 0 0 10px;
+}
+
+.banner {
+    padding: 15px 0 26px;
 }
 
 }
