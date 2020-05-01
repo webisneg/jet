@@ -205,6 +205,12 @@
 
 }
 
+/*==============================  Desktop 991  ==============================*/
+/*==============================  Desktop 991  ==============================*/
+/*==============================  Desktop 991  ==============================*/
+/*==============================  Desktop 991  ==============================*/
+/*==============================  Desktop 991  ==============================*/
+
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 991px) {
   .product-list {
@@ -1079,7 +1085,54 @@
     overflow: hidden;
 }
 
+.banner-hot-clothing .banner-img {
+    top: 39px;
+    left: 0;
 }
+
+.banner-clothing .banner-img {
+    top: 53px;
+    left: 0;
+}
+
+.banner-denim .banner-img {
+    top: 20px;
+    left: 0;
+}
+
+.banner-shirts .banner-img {
+    top: 38px;
+    left: 0;
+}
+
+.banner-shoes .banner-img {
+    top: 0;
+    left: 0;
+}
+
+.banner-dress .banner-img {
+    top: 29px;
+    left: 0;
+}
+
+.banner-bag .banner-img {
+    top: 37px;
+    left: 0;
+}
+
+.banner-fashion .banner-img {
+    top: 27px;
+    left: 0;
+}
+
+
+}
+
+
+/*==============================  Desktop 767  ==============================*/
+/*==============================  Desktop 767  ==============================*/
+/*==============================  Desktop 767  ==============================*/
+/*==============================  Desktop 767  ==============================*/
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 767px) {
@@ -1231,6 +1284,7 @@
     font-size: 16px;
     line-height: 1.25;
     margin-bottom: 22px;
+    height: auto;
 }
 
 .product-block .product-flex {
@@ -1415,7 +1469,62 @@
   width: 100%;
 }
 
+.banner-denim .banner-img {
+    top: 36px;
+    left: 0;
 }
+
+.banner-clothing .banner-img {
+    top: 41px;
+}
+
+.banner-dress .banner-img {
+    top: 31px;
+}
+
+.banner-fashion .banner-img {
+    top: 29px;
+    left: 0;
+}
+
+.banner h3 span{
+  display: none;
+}
+
+.banner p:before{
+  display: none;
+}
+
+.banner h3{
+  position: relative;
+}
+
+.banner h3:before {
+    content: url(../img/small-money.png);
+    position: absolute;
+    bottom: -14px;
+    right: 101px;
+}
+
+.banner-shoes h3:before {
+    bottom: auto;
+    right: -20px;
+    top: -2px;
+}
+
+.banner-dress h3:before {
+    bottom: auto;
+    right: -20px;
+    top: -2px;
+}
+
+}
+
+
+/*==============================  Desktop 575  ==============================*/
+/*==============================  Desktop 575  ==============================*/
+/*==============================  Desktop 575  ==============================*/
+/*==============================  Desktop 575  ==============================*/
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 575px) {
@@ -2567,6 +2676,49 @@
     border-bottom: 1px solid rgb(225, 225, 225);
     padding: 13px 14px;
     margin-bottom: 0;
+}
+
+.banner-hot-clothing .banner-img {
+    left: -30px;
+}
+
+.banner-clothing .banner-img {
+    left: -30px;
+}
+
+.banner-denim .banner-img {
+    left: -30px;
+}
+
+.banner-shirts .banner-img {
+    left: -30px;
+}
+
+.banner-shoes .banner-img {
+    left: -30px;
+}
+
+.banner-dress .banner-img {
+    left: -30px;
+}
+
+.banner-bag .banner-img {
+    left: -30px;
+}
+
+.banner-fashion .banner-img {
+    left: -30px;
+}
+
+.banner h3:before {
+    bottom: auto;
+    right: -20px;
+    top: -2px;
+}
+
+.banner h3 {
+    font-size: 14px;
+    width: 95%;
 }
 
 }
