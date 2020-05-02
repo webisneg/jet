@@ -1125,8 +1125,10 @@
     left: 0;
 }
 
-.banner-clothing .banner-img img{
-  max-height: 200px;
+.banner-clothing .banner-img img {
+    max-height: none;
+    max-width: none;
+    height: 165px;
 }
 
 .banner h3{
@@ -1134,7 +1136,7 @@
 }
 
 .banner-clothing .banner-img {
-    top: -94px;
+    top: -82px;
     left: 55px;
     position: absolute;
 }
@@ -1532,6 +1534,22 @@
     right: -20px;
     top: -2px;
 }
+
+.category-clothes .category-item {
+    width: 130px;
+    padding: 13px 5px 0 10px;
+    height: 150px;
+}
+
+.category-clothes .category-item p {
+    font-size: 12px;
+    line-height: 1.111;
+}
+
+.category-clothes .category-img img {
+    height: 80px;
+}
+
 }
 
 
@@ -1763,9 +1781,6 @@
     height: 60px;
   }
 
- .category-clothes .category-img img {
-     height: auto;
-}
 
   .category-img {
     bottom: 10px;
@@ -2484,8 +2499,8 @@
 
 .product-block .price-text p .info-hover {
     text-align: center;
-    right: -8px;
-    top: -27px;
+    right: -19px;
+    top: -4px;
     width: 67px;
     font-size: 8.5px;
     height: 26px;
@@ -2741,11 +2756,13 @@
 }
 
 .banner-clothing .banner-img {
-    top: -65px;
+    top: -59px;
+    left: -10px;
 }
 
 .banner-clothing .banner-img img {
-    max-width: 100%;
+    max-width: none;
+    height: 128px;
 }
 
 }
@@ -2817,6 +2834,15 @@
 }
 .banner-fashion .banner-img {
     top: 40px;
+}
+
+.banner-clothing .banner-img img {
+    max-width: none;
+    height: 139px;
+}
+
+.banner-clothing .banner-img {
+    top: -65px;
 }
 
 }

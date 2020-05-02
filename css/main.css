@@ -508,7 +508,7 @@ top: 50%;
     background-color: white;
     border-radius: 10px;
     box-shadow: 1.4px 3.7px 16px rgba(60, 60, 60, 0.16);
-    border: 1px solid #30D5C8;
+    border: 1px solid #4641fd;
 }
 
 .offer-top {
@@ -594,7 +594,7 @@ align-items: center;
 .offer-bid button{
     width: 180px;
 height: 45px;
-background-color: #30D5C8;
+background-color: #4641fd;
 border-radius: 5px;
 border: 0;
 cursor: pointer;

@@ -56,7 +56,7 @@
 						<a class="category-item" href="#">
 							 <p>Одежда, обувь  и аксессуары  </p>
 							 <div class="category-img">
-							 	<img src="img/category1.png" alt="">
+							 	<img src="img/14.png" alt="">
 							 </div>
 						</a>
 					</div>
@@ -64,7 +64,7 @@
 						<a class="category-item" href="#">
 							 <p>Часы и  украшения</p>
 							 <div class="category-img">
-							 	<img src="img/14.png" alt="">
+							 		<img src="img/category2.png" alt="">
 							 </div>
 						</a>
 					</div>
