@@ -1086,7 +1086,7 @@
 }
 
 .banner-hot-clothing .banner-img {
-    top: 39px;
+    top: 5px;
     left: 0;
 }
 
@@ -1096,12 +1096,12 @@
 }
 
 .banner-denim .banner-img {
-    top: 20px;
+    top: 21px;
     left: 0;
 }
 
 .banner-shirts .banner-img {
-    top: 38px;
+    top: 29px;
     left: 0;
 }
 
@@ -1111,7 +1111,7 @@
 }
 
 .banner-dress .banner-img {
-    top: 29px;
+    top: 30px;
     left: 0;
 }
 
@@ -1121,7 +1121,7 @@
 }
 
 .banner-fashion .banner-img {
-    top: 74px;
+    top: 81px;
     left: 0;
 }
 
@@ -2709,6 +2709,7 @@
 
 .banner-hot-clothing .banner-img {
     left: -30px;
+    top: 12px;
 }
 
 .banner-clothing .banner-img {
@@ -2717,10 +2718,12 @@
 
 .banner-denim .banner-img {
     left: -30px;
+    top: 30px;
 }
 
 .banner-shirts .banner-img {
     left: -30px;
+    top: 27px;
 }
 
 .banner-shoes .banner-img {
@@ -2733,10 +2736,12 @@
 
 .banner-bag .banner-img {
     left: -30px;
+    top: 33px;
 }
 
 .banner-fashion .banner-img {
     left: -30px;
+    top: 26px;
 }
 
 .banner h3:before {
@@ -2814,7 +2819,7 @@
 }
 
 .banner-hot-clothing .banner-img {
-    top: 47px;
+    top: 14px;
 }
 
 .banner-denim .banner-img {
@@ -2822,7 +2827,7 @@
 }
 
 .banner-shirts .banner-img {
-    top: 55px;
+    top: 49px;
 }
 
 .banner-dress .banner-img {
