@@ -1564,7 +1564,7 @@ font-size: 18px;
 /*======== end Landing ========*/
 
 .top-section {
-    padding: 119px 0 0;
+    padding: 0 0 0;
     overflow: hidden;
 }
 
@@ -3745,7 +3745,7 @@ font-size: 14px;
     height: 45px;
     border: 0;
     font-family: 'Geometria';
-    font-size: 14px;
+    font-size: 16px;
     color: rgb(146, 152, 159);
     line-height: 1.2;
     padding-left: 25px;
