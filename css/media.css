@@ -2015,9 +2015,9 @@
     width: 100%;
   }
 
-  .landing-category .category-group div:nth-child(2) .category-item {
+  /*.landing-category .category-group div:nth-child(2) .category-item {
     display: none;
-  }
+  }/*
 
   .landing-category .category-group div:nth-child(2) {
     order: 6;
