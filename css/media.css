@@ -1500,7 +1500,7 @@
 }
 
 .banner-fashion .banner-img {
-    top: 29px;
+    top: 31px;
     left: 0;
 }
 
@@ -1547,7 +1547,8 @@
 }
 
 .category-clothes .category-img img {
-    height: 80px;
+    max-height: 70px;
+    width: auto;
 }
 
 }
@@ -2741,7 +2742,7 @@
 
 .banner-fashion .banner-img {
     left: -30px;
-    top: 26px;
+    top: 30px;
 }
 
 .banner h3:before {
