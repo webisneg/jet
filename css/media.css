@@ -1500,7 +1500,7 @@
 }
 
 .banner-fashion .banner-img {
-    top: 31px;
+    top: 29px;
     left: 0;
 }
 
@@ -1547,8 +1547,7 @@
 }
 
 .category-clothes .category-img img {
-    max-height: 70px;
-    width: auto;
+    height: 80px;
 }
 
 }
@@ -2024,10 +2023,13 @@
   }
 
   .landing-category .category-img img {
-    width: 80%;
+       width: 105px;
     height: auto;
   }
-
+.category-group div:last-child>a .category-img {
+    bottom: 20px;
+    right: 50%;
+}
   .landing-why h2 {
     font-size: 18px;
     margin: 0 0 28px;
@@ -2742,7 +2744,7 @@
 
 .banner-fashion .banner-img {
     left: -30px;
-    top: 30px;
+    top: 26px;
 }
 
 .banner h3:before {
