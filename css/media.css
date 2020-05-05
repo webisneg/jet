@@ -2112,9 +2112,14 @@
     border: 0;
   }
 
-  .landing-category .category-group div:nth-child(2) > a .category-img {
-    right: 20px;
-  }
+.landing-category .category-group div:nth-child(2)>a .category-img {
+    right: 58px;
+    top: 26px;
+}
+
+.landing-category .category-group div:nth-child(2)>a .category-img img{
+   width: 95px;
+}
 
   .btn.btn-mob {
     width: 100%;
